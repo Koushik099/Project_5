@@ -90,7 +90,7 @@ hr {
   width: 40px;
   opacity: 0.5;
   background-color: white;
-  -webkit-transform: rotate(90deg);
+  transform: rotate(90deg);
 }
 
 i {
